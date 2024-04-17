@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1e131dde4cc8344b94dd6b52ed2074d, type: 3}
+  m_Name: Fuel Upgrade
+  m_EditorClassIdentifier: 
+  ProductImage: {fileID: 271765403, guid: a3b77b65ddbafe146b4e7ee4c0e0f18a, type: 3}
+  itemName: Rank E Fuel Upgrade
+  productDescription: Add +50 Capacity to FuelTank
+  itemCost: 30
+  itemRank: E
+  purchaseType: Ship Upgrades

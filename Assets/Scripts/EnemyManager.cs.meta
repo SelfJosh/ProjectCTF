@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0976a3fc65f3a944f8b4a15de2924447
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AllEnemyMovement: {instanceID: 0}
+  - enemyStates: {instanceID: 0}
+  - enemyShooting: {instanceID: 0}
+  - enemyHealth: {instanceID: 0}
+  - scoreKeeper: {instanceID: 0}
+  - projectileDamage: {instanceID: 0}
+  - beeGrunt: {fileID: 2027908400503075780, guid: 43c729c6f29b8204d86eed4ccd31a89f, type: 3}
+  - flyGrunt: {fileID: 9202635602625771741, guid: 8c1c9c66b86a73e4ba5051bb23327146, type: 3}
+  - mothGrunt: {fileID: 2445079528477659403, guid: 961395d275fcb2643bbb7204600c02c2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

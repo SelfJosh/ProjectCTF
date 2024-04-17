@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1e131dde4cc8344b94dd6b52ed2074d, type: 3}
+  m_Name: Black Colored Ship Rank E
+  m_EditorClassIdentifier: 
+  ProductImage: {fileID: -1070178679, guid: 4698b87617b158b4589516ab1efd960b, type: 3}
+  itemName: Black CTF Fighter Rank E
+  productDescription: Base CTF Fighter Jet Rank E Colored Black
+  itemCost: 50
+  itemRank: E
+  purchaseType: Ship Customization
